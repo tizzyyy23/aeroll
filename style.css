@@ -1,0 +1,28 @@
+body{
+    font-family: "Roboto" , sans-serif;
+    background-color: lightblue;
+}
+#tr{
+    font-size: small;
+}
+#sub{
+    text-align: justify;
+}
+.function{
+    overflow: hidden;;
+}
+#image-right{
+    float: left;
+    width: 25%;
+    height:50%;
+    margin-right:5%;
+}
+#image-right{
+    float: right;
+    width: 25%;
+    height: 50%;
+    margin-right:5%;
+}
+li {
+    font-weight: bold; /* Make list items bold */
+  }
